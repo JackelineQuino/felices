@@ -1,0 +1,6 @@
+PERIMETRO Y AREA DEL CUADRADO
+lado=int(input("Dime cuanto mide el lado del cuadrado"))
+Perimetro=(lado*4)
+Area=(lado**2)
+print("El perimetro es ", Perimetro)
+print("El area es", Area)
