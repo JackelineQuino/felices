@@ -1,0 +1,7 @@
+AREA DEL TRAPECIO
+B=int(input("ingrese la base mayor: ")
+b=int(input("ingrese la base menor: ")
+h=int(input("ingrese la altura: ")
+
+area=(B+b)*h/2
+print("El area es: ",area)
